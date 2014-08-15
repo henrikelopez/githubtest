@@ -5,4 +5,5 @@ echo 'thanks';
 
 
 $var = 'mi variable';
+$otra_variable = '356';
 ?>
