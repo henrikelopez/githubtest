@@ -1,7 +1,7 @@
 <?php
 echo 'Hola mundo del branch!';
 echo '<br>También estoy cooperando con este código';
-echo 'thanks giving';
+echo 'thanks giving :)';
 
 
 $var = 'mi variable';
