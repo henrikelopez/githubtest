@@ -7,4 +7,5 @@ echo 'thanks giving :)';
 $var = 'mi variable';
 $otra_variable = '356';
 $miau = '^-^';
+$perro = 'dice guau!';
 ?>
