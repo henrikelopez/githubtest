@@ -5,4 +5,9 @@
  * and open the template in the editor.
  * }adflakdjfñladjflñksdjlñfkadjlñfk
  */
+
+function hola($param) {
+    echo 'hola ' . $param;
+}
+
 ?>
