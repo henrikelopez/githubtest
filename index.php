@@ -6,6 +6,6 @@
  * and open the template in the editor.
  */
 
-echo 'HOLA MUNDO!!!!';
+echo 'HOLA MUNDOS!!!!';
 
 ?>
