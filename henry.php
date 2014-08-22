@@ -12,5 +12,5 @@ $perro = 'dice guau!';
 $var  = 'Soy Sergio';
 $vari = 'Holis';
 
-echo $var . $vari;
+echo $var . $vari . $var;
 ?>
