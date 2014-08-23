@@ -8,8 +8,9 @@ $var = 'mi variable';
 $otra_variable = '356';
 $miau = '^-^';
 $perro = 'dice guau!';
-echo $perro . ' y '. $miau;
 
-echo'Hola ya llegue';
+$var  = 'Soy Sergio';
+$vari = 'Holis';
 
+echo $var . $vari . $var;
 ?>
