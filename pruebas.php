@@ -7,3 +7,11 @@
  */
 
 echo 'Haciendo pruebas #time';
+
+function futbol ($texto){
+    echo 'Aqui se mostrar el nombre de mi equipo de futbol:';
+    echo $texto;
+}
+futbol("Club Deportivo Guadalajara");
+
+?>
