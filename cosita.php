@@ -1,4 +1,4 @@
 <?php
 // comentario
-echo 'hola cositassss!';
+echo 'hola cositas!';
 ?>
