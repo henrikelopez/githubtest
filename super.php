@@ -1,4 +1,4 @@
 <?php
-echo ":-) ";
-echo 'Erase una vez en super Myriam...!';
+echo ":-)";
+echo 'Erase una vez en super Henry...!';
 ?>
