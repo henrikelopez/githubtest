@@ -7,5 +7,5 @@
  */
 
 echo "myfistfolder/myfirstindex.php";
-
+//asi es el comentario
 ?>
