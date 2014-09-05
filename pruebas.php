@@ -6,6 +6,12 @@
  * and open the template in the editor.
  */
 
-echo 'Holi crayoli';
+echo 'Haciendo pruebas #time';
+
+function futbol ($texto){
+    echo 'Aqui se mostrar el nombre de mi equipo de futbol:';
+    echo $texto;
+}
+futbol("Club Deportivo Guadalajara");
 
 ?>

@@ -6,6 +6,11 @@
  * and open the template in the editor.
  */
 
-echo 'Holi crayoli';
+echo 'bebe';
 
-?>
+$prueba = 'Julio';
+
+
+$prueba.="Cesar";
+
+echo $prueba;

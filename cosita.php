@@ -1,4 +1,13 @@
 <?php
 // comentario
-echo 'hola cositassssss!';
+echo 'hola cositas!';
+
+$a = 3;
+
+$b +=$a;
+
+echo $b;
+
+
+echo 'Hola bebe';
 ?>
