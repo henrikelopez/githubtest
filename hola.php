@@ -7,7 +7,7 @@ echo 'cara de perro!';
  */
 
 function hola($param) {
-    echo 'hola ' . $param;
+    echo 'Que onda Henrike' . $param;
 }
 
 ?>
