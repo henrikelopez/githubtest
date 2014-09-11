@@ -1,6 +1,6 @@
 <?php
 // comentario
-echo 'hola cositas!';
+echo 'hola cosotas!';
 
 $a = 3;
 
